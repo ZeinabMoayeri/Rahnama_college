@@ -4,7 +4,6 @@ First, we call the desired libraries. Then we also call the database that we upl
 In the next step, we solved the algorithm using k-nearest neighbors (KNN) algorithm and then using kmeans.
  At the end, all selected teams are added to the dataset in an additional column and stored in the team_assigned_data file.
 
-![download](C:\Users\nano\Desktop\Zeinab_Moayeri\images\download.png)
 
 # Question 2
 
@@ -22,7 +21,6 @@ And according to our code, we have obtained the most accuracy from the Random Fo
 5. X1 with importance score 0.12478589348827071
 6. X3 with importance score 0.013526190969772358
 
-![download (2)](C:\Users\nano\Desktop\Zeinab_Moayeri\images\download (2).png)
 
 Considering that in the last part of the code, we have said to use all the categories and we have also calculated its accuracy. It is as follows:
 
